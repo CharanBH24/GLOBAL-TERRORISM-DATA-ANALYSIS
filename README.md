@@ -8,4 +8,4 @@
 
  - [Datasets](https://bit.ly/2TK5Xn5 "Dataset")
  - [YouTube]( https://youtu.be/BnZXWo-50Nc "YouTube") 
- - [LinkedIn]( "LinkedIn")
+ - [LinkedIn](https://www.linkedin.com/posts/charan-bhogaraju-202616192_connections-task1-sparksfoundation-activity-6944556144266739712-mHHq?utm_source=linkedin_share&utm_medium=member_desktop_web "LinkedIn")
